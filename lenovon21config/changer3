@@ -1,0 +1,35 @@
+#!/bin/bash
+
+cd ~/
+while [  1 ]; do
+	COUNTER=0
+	while [  $COUNTER -lt 60 ]; do
+#		sleep 60
+		cd ~
+		wget http://www.opentopia.com/images/cams/world_sunlight_map_rectangular.jpg -O world.jpg && notify-send  "FILE COPIED"
+#		temp=$(stat -c%s world.jpg)
+		cp ~/world.jpg ~/world2.jpg
+#		if ( $temp > 1000 )
+		notify-send "`date -R`"
+		feh -x --bg-scale ~/world.jpg && notify-send  "Backgroung SET"		 
+		printf "File Copied \n"
+#			then 	rm world_sunlight_Wallpaper.jpg
+#				mv world.jpg world_sunlight_Wallpaper.jpg
+#				break
+#		fi
+#		sleep 5
+#		gsettings set org.gnome.desktop.background picture-uri "file:///home/jstone/world.jpg"
+#		sleep 3600
+		for a in `seq 1 3600`; do
+   			 printf "$a/3600 to Download "
+ 			 #  echo "$a/3600 to Download." 
+   			 printf "                    \r\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b"
+
+   			 sleep 1;
+		done
+
+        	let COUNTER=COUNTER+1 
+
+	done
+#	sleep 3600
+done

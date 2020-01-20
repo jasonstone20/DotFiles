@@ -1,0 +1,10 @@
+#Session 1
+neww
+new-window 'Vim/g++'
+split-window -v
+#split-window -h
+split-window -h 'vim'
+#new-window 'nohup /home/jds1974/changer3'
+#new-window 'ssh 10.0.0.6'
+new-window 'Bash'
+#new-window 'tor'
