@@ -1,0 +1,122 @@
+{
+    "accounts": [
+        {
+            "address_generator": {
+                "change": {
+                    "gap": 6,
+                    "maximum_uses_per_address": 1
+                },
+                "name": "deterministic-chain",
+                "receiving": {
+                    "gap": 20,
+                    "maximum_uses_per_address": 1
+                }
+            },
+            "certificates": {},
+            "encrypted": false,
+            "ledger": "lbc_mainnet",
+            "modified_on": 1593490677.3886728,
+            "name": "Account #bGM7zcoZYVnUKRXeLCE4bFmWFYSqFACj8N",
+            "private_key": "xprv9s21ZrQH143K2jESV1sx7viPNQ6531KBGKUFHdW7EhQFPHERP6LL9TyUifxCxdgFakezjPNEXcMvwAJbsC6E5kuzBnkxZKFbwZePuYq595J",
+            "public_key": "xpub661MyMwAqRbcFDJub3QxV4f7vRvZSU32dYPr61uio2wEG5ZZvdeahGHxZvvjN5F5C3aEvwgJxAQ3vXujYT9UpPTFuNxW4uzZd3nY6SjtWfr",
+            "seed": "cart scale define cherry sign again blind clog cube find clean present"
+        },
+        {
+            "address_generator": {
+                "name": "single-address"
+            },
+            "certificates": {},
+            "encrypted": false,
+            "ledger": "lbc_mainnet",
+            "modified_on": 1589686548.932907,
+            "name": "Account #bUr4qzA3xNqh25MuTyFmJ4dSFYnWuHaB3K",
+            "private_key": "xprv9s21ZrQH143K4SjHzgVUfYbRABep5mH4N5tXpcdbx8zAqyVUcfEMzUxR2AcZpx4jT4AJ25PriR8DcaALR64Fq2TKxnwSqD9frrsqenHRQgP",
+            "public_key": "xpub661MyMwAqRbcGvom6i2V2gY9iDVJVDzujJp8d13DWUX9impdACYcYHGtsTPFFv71StwnfEEtVQ6R6Q7gQKQEiCUMV8Ri5fpYf8RnfcnJU8Q",
+            "seed": "crane asset oval mixture off flip stumble casual mesh very town knife"
+        },
+        {
+            "address_generator": {
+                "name": "single-address"
+            },
+            "certificates": {},
+            "encrypted": false,
+            "ledger": "lbc_mainnet",
+            "modified_on": 1577084620.9048786,
+            "name": "Account #bQcrQxNUNr3RaoUTv8UaThXpm5aRWTU6Hp",
+            "private_key": "xprv9s21ZrQH143K46D1E7s2EP3dsnJYbPLn64gH582n5g8CCAFvsy26mg2T9w9AMhv3LPbM91rPJfjYvrzw61AAFfPuWJnUdAjh67VSfWC4qgR",
+            "public_key": "xpub661MyMwAqRbcGaHUL9Q2bWzNRp92zr4dTHbssWSPe1fB4xb5RWLMKULw1AuNfMH5uk4fyw6YBggzCvsok4V3zjw3deNCMAYTL6iACtXy3kF",
+            "seed": "fish wagon kitchen gloom allow make lady elevator indicate boring foot tennis"
+        },
+        {
+            "address_generator": {
+                "change": {
+                    "gap": 6,
+                    "maximum_uses_per_address": 1
+                },
+                "name": "deterministic-chain",
+                "receiving": {
+                    "gap": 20,
+                    "maximum_uses_per_address": 1
+                }
+            },
+            "certificates": {},
+            "encrypted": false,
+            "ledger": "lbc_mainnet",
+            "modified_on": 1574284133.754067,
+            "name": "Account #bGq3cfqLK8ZqrgfYMRqkm3EoWPWwz9nB6T",
+            "private_key": "xprv9s21ZrQH143K3jhD2vYUQ1VtRkmt8SRJAwt9HByoZ4wGnVGZFU4sdqsVJr5dX2T6DVsfmSkiw7qtYmB29ofgxq3KBmeV1bmBfDXATs8gXaC",
+            "public_key": "xpub661MyMwAqRbcGDmg8x5Um9ScyncNXu99YAok5aPR7QUFfHbho1P8BeByA9qehrJUqFUFnh3Q7LdvAwE9Gj1qzt5JVJJXGZ4U4P78evmVpUn",
+            "seed": "lucky session trend corn wink diamond gown subject cash net large upper"
+        }
+    ],
+    "name": "My Wallet",
+    "preferences": {
+        "shared": {
+            "ts": 1589687104.799438,
+            "value": {
+                "type": "object",
+                "value": {
+                    "app_welcome_version": 0,
+                    "blocked": [],
+                    "sharing_3P": false,
+                    "subscriptions": [
+                        "lbry://@AlexandreMarcotte777#06b6d6d6a893fb589ec2ded948f5122856921ed5",
+                        "lbry://@AlexJonesChannel#cde3b125543e3e930ac2647df957a836e3da3816",
+                        "lbry://@EliTheComputerGuy#8914f8e31ae94b9d9c2011b10b43d72283beae4f",
+                        "lbry://@freedomain#b89ed227c49e726fcccf913bdc9dec4c8fec99c2",
+                        "lbry://@johnstossel#70e56234217f30317c0e67fd0eede6e82b74aea0",
+                        "lbry://@Luke#70d0495ea46072bead82429fb405d60438036524",
+                        "lbry://@Lunduke#e8f68563d242f6ac9784dcbc41dd86c28a9391d6",
+                        "lbry://@NextNewsNetwork#84edf7e474aba8a285d42a2ac1792801c5a2ca40",
+                        "lbry://@Styxhexenhammer666#2556ed1cab9d17f2a9392030a9ad7f5d138f11bd",
+                        "lbry://@TheLateBoyScout#b12e255e9f84d8b4ed86343b27676dccbc8b6d8b",
+                        "lbry://@TheLinuxGamer#feb61536c007cdf4faeeaab4876cb397feaf6b51",
+                        "lbry://@timcast#c9da929d12afe6066acc89eb044b552f0d63782a",
+                        "lbry://@Wranglerstar#4b602d7a3e268abb45951f623a109d2a131ab0ba"
+                    ],
+                    "tags": [
+                        "art",
+                        "automotive",
+                        "blockchain",
+                        "comedy",
+                        "economics",
+                        "education",
+                        "gaming",
+                        "music",
+                        "news",
+                        "science",
+                        "sports",
+                        "knives",
+                        "knife sharpening",
+                        "politics",
+                        "political",
+                        "mature",
+                        "technology"
+                    ]
+                },
+                "version": "0.1"
+            }
+        }
+    },
+    "version": 1
+}
